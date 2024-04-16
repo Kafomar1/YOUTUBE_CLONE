@@ -13,3 +13,4 @@ module.exports = {
  '@styles': path.join(path.resolve(__dirname, './src/styles')),
  },
  },
+};
